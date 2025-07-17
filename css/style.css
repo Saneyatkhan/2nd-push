@@ -1,0 +1,21 @@
+h1{
+    font-size: 48px;
+    color: brown;
+    text-align: center;
+}
+.one{
+    font-size: 24px;
+    color: #ff6347;
+
+}
+.two{
+    font-size: 24px;
+    color: #ff4349;
+
+}
+.three{
+    font-size: 25px;
+    color: bisque;
+    text-align: justify;
+    background-color: black;
+}
